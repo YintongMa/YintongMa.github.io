@@ -9,16 +9,31 @@ redirect_from:
 ---
 
 
-Hi, my name is Yintong Ma.
+Hi, my name is **Yintong Ma \(<font face="楷体">马寅桐</font>\)**.
 
 
-I’m currently a Software Engineer in **Alibaba Cloud Database Group**. I currently work on building **Diagnostic Analysis System for Large-Scale Cloud Databases**. I have broad research interests in data systems, data discovery and SysML fields.
+I’m currently a Software Engineer in **Alibaba Cloud Database Group** building **Diagnostic Analysis System for Large-Scale Cloud Databases**. I have broad research interests in data systems, data discovery and SysML fields.
 
 
 I graduated from **Shanghai Jiao Tong University** with a B.E. in Computer Science & Engineering in 2017. I attended Intelligent Internet of Things(IIoT) Lab under the supervision of [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html) and [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/). I finished my undergrad dissertation supervised by [Prof. Bin Yao](http://www.cs.sjtu.edu.cn/~yaobin/).
 
 
 **CV**: [PDF](https://YintongMa.github.io/files/Resume Yintong Ma.pdf)
+
+News
+======
+
+* \[April. 2020\] I am expected to pursue a Pre-Doctoral Master Degree in [ChiData](https://data.cs.uchicago.edu/), **University of Chicago** under the supervision of [Prof. Raul Castro Fernandez](https://raulcastrofernandez.com/) this fall.
+* \[July. 2017\] I graduate from SJTU and will join Alibaba Cloud Database Group building data intensive systems.
+
+Useful Links
+======
+
+* [Never be cheated by the "Cargo Cult Science"](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
+
+* [System design philosophy](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+
+* [Write to you for your future](https://baike.baidu.com/item/%E5%86%99%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%BD%A0/20830750)
 
 
 <!-- A data-driven personal website
