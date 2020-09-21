@@ -12,7 +12,10 @@ redirect_from:
 Hi, my name is **Yintong Ma \(<font face="楷体">马寅桐</font>\)**.
 
 
-I’m currently a Software Engineer in **Alibaba Cloud Database Group** building **Diagnostic Analysis System for Large-Scale Cloud Databases**. I have broad research interests in data systems, data discovery and SysML fields.
+I’m currently a Pre-Doctoral Master student in [ChiData](https://data.cs.uchicago.edu/), **University of Chicago** advised by [Prof. Raul Castro Fernandez]. I have broad research interests in data system and data discovery fields. 
+
+
+Previously, I worked as a Software Engineer in **Alibaba Cloud Database Group** building **Diagnostic Analysis System for Large-Scale Cloud Databases** (See more:[sigmod20](https://dl.acm.org/doi/abs/10.1145/3318464.3386136)[sigmod18](https://dl.acm.org/doi/abs/10.1145/3183713.3190659)).
 
 
 I graduated from **Shanghai Jiao Tong University** with a B.E. in Computer Science & Engineering in 2017. I attended Intelligent Internet of Things(IIoT) Lab under the supervision of [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html) and [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/). I finished my undergrad dissertation supervised by [Prof. Bin Yao](http://www.cs.sjtu.edu.cn/~yaobin/).
@@ -20,11 +23,11 @@ I graduated from **Shanghai Jiao Tong University** with a B.E. in Computer Scien
 
 **CV**: [PDF](https://YintongMa.github.io/files/Resume Yintong Ma.pdf)
 
-News
+<!-- News
 ======
 
 * \[April. 2020\] I am expected to pursue a Pre-Doctoral Master Degree in [ChiData](https://data.cs.uchicago.edu/), **University of Chicago** under the supervision of [Prof. Raul Castro Fernandez](https://raulcastrofernandez.com/) this fall.
-* \[July. 2017\] I graduate from SJTU and will join Alibaba Cloud Database Group building data intensive systems.
+* \[July. 2017\] I graduate from SJTU and will join Alibaba Cloud Database Group building data intensive systems. -->
 
 Useful Links
 ======
