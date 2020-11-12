@@ -21,7 +21,7 @@ I’m currently a computer science master student in [ChiData](https://data.cs.u
 Previously, I worked as a Software Engineer in **Alibaba Database Group** building **Diagnostic Analysis Data System**. I graduated from **Shanghai Jiao Tong University** with a B.E. in Computer Science & Engineering in 2017 advised by [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/index.html) and [Prof. Xiaohua Tian](http://iiot.sjtu.edu.cn/xtian/). I finished my undergrad dissertation supervised by [Prof. Bin Yao](http://www.cs.sjtu.edu.cn/~yaobin/).
 
 
-**CV**: [PDF](https://YintongMa.github.io/files/Resume Yintong Ma.pdf)
+<!-- **CV**: [PDF](https://YintongMa.github.io/files/Resume Yintong Ma.pdf) -->
 
 <!-- News
 ======
